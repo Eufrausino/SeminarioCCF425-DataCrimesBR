@@ -1,0 +1,4 @@
+detoxify
+python-dotenv
+pandas
+seaborn
